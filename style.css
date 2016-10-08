@@ -1,0 +1,107 @@
+* {
+ box-sizing : border-box;
+}
+
+html {
+  height : 100%;
+}
+
+body {
+  background-color : rgba( 0, 0, 0, 0.8 );
+  color            : rgba( 0, 0, 0, 0.9 );
+  font-size        : 24px;
+  height           : 100%;
+}
+
+h1 {
+  font-size : 4em;
+}
+
+h2 {
+  font-size    : 3em;
+}
+
+h3 {
+  font-size    : 2em;
+}
+
+.container {
+  max-width        : 960px;
+  margin           : 0 auto;
+  background-color : rgba( 255, 255, 255, 0.95 );
+  height           : 100%;
+}
+
+.slide {
+  padding  : 2em 3.5em;
+  display  : none;
+  overflow : hidden;
+  height   : 85%;
+}
+
+.active {
+  display  : inherit;
+}
+
+.title {
+  position   : relative;
+  top        : 50%;
+  transform  : translateY(-60%);
+  text-align : center;
+}
+
+ul {
+  list-style-type : square;
+  padding         : 1em;
+}
+
+li {
+  padding : 0.25em 0.5em;
+}
+
+.slide-number {
+  position  : absolute;
+  left      : 50%;
+  transform : translateX(-50%);
+  bottom    : 0px;
+  font-size : 2em;
+  height    : 15%;
+}
+
+.float-left {
+  float : left;
+}
+
+.float-right {
+  float : right;
+}
+
+.text-left {
+  text-align : left;
+}
+
+.text-center {
+  text-align : center;
+}
+
+.text-right {
+  text-align : right;
+}
+
+.one-third {
+  width   : 33%;
+  padding : 1em;
+}
+
+.two-third {
+  width : 66%;
+  padding : 1em;
+}
+
+.row  > .one-third {
+  float : left;
+}
+
+.row  > .two-third {
+  float : left;
+}

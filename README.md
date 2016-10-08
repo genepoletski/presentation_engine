@@ -1,4 +1,4 @@
-# Project "ep_tutorial_presentation"
+# Project "presentation_engine"
 Tutorial project. In-browser presentation.
 
 ## Features

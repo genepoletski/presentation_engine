@@ -1,0 +1,6 @@
+{
+  "name": "Presentation engine",
+  "tagline": "Tutorial project \"Presentation engine\"",
+  "body": "# Project \"ep_tutorial_presentation\"\r\nTutorial project. In-browser presentation.\r\n\r\n## Features\r\n- switch slides with arrow keys\r\n- use HTML to create slides content\r\n- style slides with CSS rules\r\n- vanilla JavaScript\r\n\r\n## Deployed project URL\r\nhttp://epwebworks.ru/projects/16_009_presentation_engine/\r\n\r\n## Releases:\r\n[ v0.0.1 ] ( https://github.com/e-pol/ep_tutorial_presentation/releases )\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

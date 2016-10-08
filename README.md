@@ -10,5 +10,8 @@ Tutorial project. In-browser presentation.
 ## Deployed project URL
 http://epwebworks.ru/projects/16_009_presentation_engine/
 
+## Git pages
+https://web-developer-poletski.github.io/presentation_engine/
+
 ## Releases:
 [ v0.0.1 ] ( https://github.com/e-pol/ep_tutorial_presentation/releases )
